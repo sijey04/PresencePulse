@@ -1,0 +1,5 @@
+    opencv-python
+    pillow
+    auto-py-to-exe
+    scikit-learn
+    
